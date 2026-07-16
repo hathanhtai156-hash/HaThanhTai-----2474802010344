@@ -1,0 +1,15 @@
+
+NHẬN XÉT KẾT QUẢ LAB 6
+
+Sau khi huấn luyện mô hình mạng nơ-ron sâu trên bộ dữ liệu Fashion-MNIST,
+ta thấy sai số huấn luyện giảm dần qua các epoch. Ở epoch cuối,
+training loss đạt khoảng 0.2268, validation loss đạt khoảng 0.3628.
+
+Độ chính xác trên tập huấn luyện đạt khoảng 91.29%,
+trong khi độ chính xác trên tập validation đạt khoảng 88.13%.
+Điều này cho thấy mô hình đã học được đặc trưng của các ảnh quần áo, giày dép
+trong bộ dữ liệu Fashion-MNIST.
+
+Tuy nhiên, một số ảnh vẫn bị dự đoán sai do các lớp có hình dạng khá giống nhau,
+ví dụ như Sneaker và Ankle boot, hoặc Coat và Pullover.
+Nhìn chung, mô hình đã hoạt động đúng và đáp ứng yêu cầu của Lab 6.

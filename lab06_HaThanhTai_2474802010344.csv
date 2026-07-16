@@ -1,0 +1,1001 @@
+STT,Sample_Index,True_Label_ID,True_Label_Name,Predicted_Label_ID,Predicted_Label_Name,Confidence_Score_%,Result
+1,0,9,Ankle boot,9,Ankle boot,999.78,Chính xác
+2,1,2,Pullover,2,Pullover,998.97,Chính xác
+3,2,1,Trouser,1,Trouser,1000.0,Chính xác
+4,3,1,Trouser,1,Trouser,1000.0,Chính xác
+5,4,6,Shirt,6,Shirt,960.52,Chính xác
+6,5,1,Trouser,1,Trouser,1000.0,Chính xác
+7,6,4,Coat,4,Coat,999.99,Chính xác
+8,7,6,Shirt,6,Shirt,999.97,Chính xác
+9,8,5,Sandal,5,Sandal,1000.0,Chính xác
+10,9,7,Sneaker,7,Sneaker,1000.0,Chính xác
+11,10,4,Coat,4,Coat,865.99,Chính xác
+12,11,5,Sandal,5,Sandal,1000.0,Chính xác
+13,12,7,Sneaker,5,Sandal,1000.0,Sai (Lỗi nhầm lẫn)
+14,13,3,Dress,3,Dress,1000.0,Chính xác
+15,14,4,Coat,4,Coat,689.16,Chính xác
+16,15,1,Trouser,1,Trouser,1000.0,Chính xác
+17,16,2,Pullover,2,Pullover,999.87,Chính xác
+18,17,4,Coat,2,Pullover,858.72,Sai (Lỗi nhầm lẫn)
+19,18,8,Bag,8,Bag,1000.0,Chính xác
+20,19,0,T-shirt/top,0,T-shirt/top,997.34,Chính xác
+21,20,2,Pullover,2,Pullover,999.92,Chính xác
+22,21,5,Sandal,5,Sandal,946.34,Chính xác
+23,22,7,Sneaker,7,Sneaker,1000.0,Chính xác
+24,23,9,Ankle boot,5,Sandal,983.19,Sai (Lỗi nhầm lẫn)
+25,24,1,Trouser,1,Trouser,1000.0,Chính xác
+26,25,4,Coat,2,Pullover,694.31,Sai (Lỗi nhầm lẫn)
+27,26,6,Shirt,6,Shirt,963.94,Chính xác
+28,27,0,T-shirt/top,0,T-shirt/top,839.22,Chính xác
+29,28,9,Ankle boot,9,Ankle boot,983.69,Chính xác
+30,29,3,Dress,3,Dress,427.21,Chính xác
+31,30,8,Bag,8,Bag,1000.0,Chính xác
+32,31,8,Bag,8,Bag,1000.0,Chính xác
+33,32,3,Dress,3,Dress,999.95,Chính xác
+34,33,3,Dress,3,Dress,958.03,Chính xác
+35,34,8,Bag,8,Bag,1000.0,Chính xác
+36,35,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+37,36,7,Sneaker,7,Sneaker,1000.0,Chính xác
+38,37,5,Sandal,5,Sandal,1000.0,Chính xác
+39,38,7,Sneaker,7,Sneaker,1000.0,Chính xác
+40,39,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+41,40,6,Shirt,0,T-shirt/top,980.91,Sai (Lỗi nhầm lẫn)
+42,41,1,Trouser,1,Trouser,1000.0,Chính xác
+43,42,3,Dress,6,Shirt,973.17,Sai (Lỗi nhầm lẫn)
+44,43,7,Sneaker,7,Sneaker,997.74,Chính xác
+45,44,6,Shirt,6,Shirt,808.41,Chính xác
+46,45,7,Sneaker,7,Sneaker,977.59,Chính xác
+47,46,2,Pullover,2,Pullover,953.42,Chính xác
+48,47,1,Trouser,1,Trouser,1000.0,Chính xác
+49,48,2,Pullover,2,Pullover,665.45,Chính xác
+50,49,2,Pullover,6,Shirt,747.29,Sai (Lỗi nhầm lẫn)
+51,50,4,Coat,4,Coat,917.63,Chính xác
+52,51,4,Coat,2,Pullover,832.2,Sai (Lỗi nhầm lẫn)
+53,52,5,Sandal,5,Sandal,1000.0,Chính xác
+54,53,8,Bag,8,Bag,1000.0,Chính xác
+55,54,2,Pullover,2,Pullover,991.77,Chính xác
+56,55,2,Pullover,2,Pullover,990.34,Chính xác
+57,56,8,Bag,8,Bag,1000.0,Chính xác
+58,57,4,Coat,6,Shirt,619.89,Sai (Lỗi nhầm lẫn)
+59,58,8,Bag,8,Bag,1000.0,Chính xác
+60,59,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+61,60,7,Sneaker,7,Sneaker,999.99,Chính xác
+62,61,7,Sneaker,7,Sneaker,999.92,Chính xác
+63,62,8,Bag,8,Bag,1000.0,Chính xác
+64,63,5,Sandal,5,Sandal,1000.0,Chính xác
+65,64,1,Trouser,1,Trouser,1000.0,Chính xác
+66,65,1,Trouser,1,Trouser,1000.0,Chính xác
+67,66,2,Pullover,3,Dress,267.88,Sai (Lỗi nhầm lẫn)
+68,67,3,Dress,4,Coat,519.78,Sai (Lỗi nhầm lẫn)
+69,68,9,Ankle boot,7,Sneaker,997.69,Sai (Lỗi nhầm lẫn)
+70,69,8,Bag,8,Bag,1000.0,Chính xác
+71,70,7,Sneaker,7,Sneaker,999.7,Chính xác
+72,71,0,T-shirt/top,0,T-shirt/top,999.62,Chính xác
+73,72,2,Pullover,2,Pullover,895.76,Chính xác
+74,73,6,Shirt,6,Shirt,923.1,Chính xác
+75,74,2,Pullover,2,Pullover,809.98,Chính xác
+76,75,3,Dress,3,Dress,999.13,Chính xác
+77,76,1,Trouser,1,Trouser,1000.0,Chính xác
+78,77,2,Pullover,2,Pullover,999.62,Chính xác
+79,78,8,Bag,8,Bag,1000.0,Chính xác
+80,79,4,Coat,4,Coat,799.28,Chính xác
+81,80,1,Trouser,1,Trouser,1000.0,Chính xác
+82,81,8,Bag,8,Bag,1000.0,Chính xác
+83,82,5,Sandal,5,Sandal,1000.0,Chính xác
+84,83,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+85,84,5,Sandal,5,Sandal,1000.0,Chính xác
+86,85,0,T-shirt/top,0,T-shirt/top,999.96,Chính xác
+87,86,3,Dress,3,Dress,999.97,Chính xác
+88,87,2,Pullover,2,Pullover,998.35,Chính xác
+89,88,0,T-shirt/top,0,T-shirt/top,999.91,Chính xác
+90,89,6,Shirt,2,Pullover,679.28,Sai (Lỗi nhầm lẫn)
+91,90,5,Sandal,5,Sandal,1000.0,Chính xác
+92,91,3,Dress,3,Dress,989.99,Chính xác
+93,92,6,Shirt,6,Shirt,885.16,Chính xác
+94,93,7,Sneaker,7,Sneaker,1000.0,Chính xác
+95,94,1,Trouser,1,Trouser,1000.0,Chính xác
+96,95,8,Bag,8,Bag,1000.0,Chính xác
+97,96,0,T-shirt/top,0,T-shirt/top,982.83,Chính xác
+98,97,1,Trouser,1,Trouser,1000.0,Chính xác
+99,98,4,Coat,2,Pullover,404.69,Sai (Lỗi nhầm lẫn)
+100,99,2,Pullover,2,Pullover,890.39,Chính xác
+101,100,3,Dress,3,Dress,999.52,Chính xác
+102,101,6,Shirt,6,Shirt,950.07,Chính xác
+103,102,7,Sneaker,7,Sneaker,1000.0,Chính xác
+104,103,2,Pullover,2,Pullover,507.74,Chính xác
+105,104,7,Sneaker,7,Sneaker,1000.0,Chính xác
+106,105,8,Bag,8,Bag,988.51,Chính xác
+107,106,5,Sandal,5,Sandal,1000.0,Chính xác
+108,107,9,Ankle boot,7,Sneaker,588.57,Sai (Lỗi nhầm lẫn)
+109,108,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+110,109,4,Coat,4,Coat,938.85,Chính xác
+111,110,2,Pullover,2,Pullover,999.7,Chính xác
+112,111,5,Sandal,5,Sandal,1000.0,Chính xác
+113,112,7,Sneaker,7,Sneaker,1000.0,Chính xác
+114,113,0,T-shirt/top,0,T-shirt/top,989.77,Chính xác
+115,114,5,Sandal,5,Sandal,1000.0,Chính xác
+116,115,2,Pullover,2,Pullover,999.58,Chính xác
+117,116,8,Bag,8,Bag,1000.0,Chính xác
+118,117,6,Shirt,6,Shirt,890.98,Chính xác
+119,118,7,Sneaker,7,Sneaker,999.84,Chính xác
+120,119,8,Bag,8,Bag,1000.0,Chính xác
+121,120,0,T-shirt/top,0,T-shirt/top,913.37,Chính xác
+122,121,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+123,122,9,Ankle boot,9,Ankle boot,993.7,Chính xác
+124,123,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+125,124,3,Dress,3,Dress,999.63,Chính xác
+126,125,0,T-shirt/top,0,T-shirt/top,999.79,Chính xác
+127,126,8,Bag,8,Bag,1000.0,Chính xác
+128,127,4,Coat,6,Shirt,480.52,Sai (Lỗi nhầm lẫn)
+129,128,1,Trouser,1,Trouser,1000.0,Chính xác
+130,129,5,Sandal,5,Sandal,1000.0,Chính xác
+131,130,4,Coat,4,Coat,984.08,Chính xác
+132,131,1,Trouser,1,Trouser,1000.0,Chính xác
+133,132,9,Ankle boot,9,Ankle boot,999.04,Chính xác
+134,133,1,Trouser,1,Trouser,1000.0,Chính xác
+135,134,8,Bag,8,Bag,1000.0,Chính xác
+136,135,6,Shirt,6,Shirt,798.34,Chính xác
+137,136,2,Pullover,2,Pullover,516.76,Chính xác
+138,137,1,Trouser,1,Trouser,1000.0,Chính xác
+139,138,2,Pullover,2,Pullover,999.99,Chính xác
+140,139,5,Sandal,5,Sandal,1000.0,Chính xác
+141,140,1,Trouser,1,Trouser,1000.0,Chính xác
+142,141,0,T-shirt/top,6,Shirt,617.38,Sai (Lỗi nhầm lẫn)
+143,142,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+144,143,0,T-shirt/top,0,T-shirt/top,999.97,Chính xác
+145,144,1,Trouser,1,Trouser,1000.0,Chính xác
+146,145,6,Shirt,6,Shirt,741.81,Chính xác
+147,146,1,Trouser,1,Trouser,1000.0,Chính xác
+148,147,6,Shirt,3,Dress,991.4,Sai (Lỗi nhầm lẫn)
+149,148,2,Pullover,2,Pullover,994.41,Chính xác
+150,149,2,Pullover,2,Pullover,860.89,Chính xác
+151,150,4,Coat,3,Dress,741.16,Sai (Lỗi nhầm lẫn)
+152,151,4,Coat,4,Coat,888.5,Chính xác
+153,152,1,Trouser,1,Trouser,1000.0,Chính xác
+154,153,4,Coat,3,Dress,532.56,Sai (Lỗi nhầm lẫn)
+155,154,5,Sandal,5,Sandal,1000.0,Chính xác
+156,155,0,T-shirt/top,0,T-shirt/top,580.82,Chính xác
+157,156,4,Coat,4,Coat,753.66,Chính xác
+158,157,7,Sneaker,7,Sneaker,999.06,Chính xác
+159,158,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+160,159,3,Dress,3,Dress,999.95,Chính xác
+161,160,7,Sneaker,7,Sneaker,999.91,Chính xác
+162,161,2,Pullover,2,Pullover,971.85,Chính xác
+163,162,3,Dress,3,Dress,999.97,Chính xác
+164,163,9,Ankle boot,9,Ankle boot,963.27,Chính xác
+165,164,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+166,165,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+167,166,4,Coat,4,Coat,731.7,Chính xác
+168,167,7,Sneaker,7,Sneaker,940.75,Chính xác
+169,168,4,Coat,4,Coat,996.95,Chính xác
+170,169,2,Pullover,2,Pullover,993.18,Chính xác
+171,170,0,T-shirt/top,0,T-shirt/top,989.07,Chính xác
+172,171,5,Sandal,5,Sandal,1000.0,Chính xác
+173,172,2,Pullover,6,Shirt,545.32,Sai (Lỗi nhầm lẫn)
+174,173,1,Trouser,1,Trouser,1000.0,Chính xác
+175,174,2,Pullover,2,Pullover,997.62,Chính xác
+176,175,1,Trouser,1,Trouser,1000.0,Chính xác
+177,176,3,Dress,3,Dress,998.31,Chính xác
+178,177,0,T-shirt/top,0,T-shirt/top,998.95,Chính xác
+179,178,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+180,179,1,Trouser,1,Trouser,1000.0,Chính xác
+181,180,0,T-shirt/top,0,T-shirt/top,999.99,Chính xác
+182,181,9,Ankle boot,9,Ankle boot,998.24,Chính xác
+183,182,3,Dress,3,Dress,974.4,Chính xác
+184,183,6,Shirt,6,Shirt,915.58,Chính xác
+185,184,7,Sneaker,7,Sneaker,1000.0,Chính xác
+186,185,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+187,186,9,Ankle boot,9,Ankle boot,999.99,Chính xác
+188,187,4,Coat,4,Coat,914.48,Chính xác
+189,188,4,Coat,4,Coat,924.21,Chính xác
+190,189,7,Sneaker,7,Sneaker,1000.0,Chính xác
+191,190,1,Trouser,1,Trouser,1000.0,Chính xác
+192,191,2,Pullover,2,Pullover,998.33,Chính xác
+193,192,1,Trouser,3,Dress,995.05,Sai (Lỗi nhầm lẫn)
+194,193,6,Shirt,6,Shirt,931.79,Chính xác
+195,194,3,Dress,3,Dress,999.58,Chính xác
+196,195,2,Pullover,2,Pullover,979.45,Chính xác
+197,196,8,Bag,8,Bag,1000.0,Chính xác
+198,197,3,Dress,3,Dress,996.41,Chính xác
+199,198,6,Shirt,6,Shirt,987.85,Chính xác
+200,199,1,Trouser,1,Trouser,1000.0,Chính xác
+201,200,1,Trouser,1,Trouser,1000.0,Chính xác
+202,201,0,T-shirt/top,0,T-shirt/top,996.38,Chính xác
+203,202,2,Pullover,2,Pullover,989.63,Chính xác
+204,203,9,Ankle boot,9,Ankle boot,999.85,Chính xác
+205,204,2,Pullover,2,Pullover,1000.0,Chính xác
+206,205,4,Coat,4,Coat,485.12,Chính xác
+207,206,0,T-shirt/top,0,T-shirt/top,999.47,Chính xác
+208,207,7,Sneaker,7,Sneaker,1000.0,Chính xác
+209,208,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+210,209,8,Bag,8,Bag,1000.0,Chính xác
+211,210,4,Coat,4,Coat,988.06,Chính xác
+212,211,1,Trouser,1,Trouser,1000.0,Chính xác
+213,212,8,Bag,8,Bag,1000.0,Chính xác
+214,213,4,Coat,4,Coat,948.21,Chính xác
+215,214,1,Trouser,1,Trouser,1000.0,Chính xác
+216,215,3,Dress,3,Dress,999.97,Chính xác
+217,216,1,Trouser,1,Trouser,1000.0,Chính xác
+218,217,6,Shirt,6,Shirt,1000.0,Chính xác
+219,218,7,Sneaker,7,Sneaker,999.85,Chính xác
+220,219,2,Pullover,2,Pullover,773.77,Chính xác
+221,220,8,Bag,8,Bag,1000.0,Chính xác
+222,221,5,Sandal,0,T-shirt/top,643.91,Sai (Lỗi nhầm lẫn)
+223,222,2,Pullover,4,Coat,626.48,Sai (Lỗi nhầm lẫn)
+224,223,0,T-shirt/top,0,T-shirt/top,999.24,Chính xác
+225,224,7,Sneaker,7,Sneaker,1000.0,Chính xác
+226,225,7,Sneaker,7,Sneaker,999.99,Chính xác
+227,226,6,Shirt,6,Shirt,994.29,Chính xác
+228,227,2,Pullover,6,Shirt,731.5,Sai (Lỗi nhầm lẫn)
+229,228,7,Sneaker,7,Sneaker,1000.0,Chính xác
+230,229,0,T-shirt/top,0,T-shirt/top,702.61,Chính xác
+231,230,7,Sneaker,7,Sneaker,999.76,Chính xác
+232,231,8,Bag,8,Bag,1000.0,Chính xác
+233,232,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+234,233,2,Pullover,2,Pullover,863.73,Chính xác
+235,234,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+236,235,0,T-shirt/top,0,T-shirt/top,995.74,Chính xác
+237,236,5,Sandal,5,Sandal,1000.0,Chính xác
+238,237,1,Trouser,1,Trouser,1000.0,Chính xác
+239,238,4,Coat,4,Coat,999.88,Chính xác
+240,239,4,Coat,2,Pullover,903.54,Sai (Lỗi nhầm lẫn)
+241,240,5,Sandal,5,Sandal,1000.0,Chính xác
+242,241,6,Shirt,4,Coat,937.96,Sai (Lỗi nhầm lẫn)
+243,242,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+244,243,2,Pullover,2,Pullover,999.7,Chính xác
+245,244,6,Shirt,2,Pullover,814.24,Sai (Lỗi nhầm lẫn)
+246,245,8,Bag,8,Bag,998.71,Chính xác
+247,246,6,Shirt,6,Shirt,992.3,Chính xác
+248,247,4,Coat,4,Coat,699.17,Chính xác
+249,248,2,Pullover,2,Pullover,850.18,Chính xác
+250,249,2,Pullover,2,Pullover,816.06,Chính xác
+251,250,9,Ankle boot,9,Ankle boot,785.68,Chính xác
+252,251,7,Sneaker,7,Sneaker,1000.0,Chính xác
+253,252,6,Shirt,6,Shirt,705.06,Chính xác
+254,253,5,Sandal,5,Sandal,1000.0,Chính xác
+255,254,5,Sandal,5,Sandal,1000.0,Chính xác
+256,255,2,Pullover,4,Coat,563.47,Sai (Lỗi nhầm lẫn)
+257,256,8,Bag,8,Bag,1000.0,Chính xác
+258,257,5,Sandal,5,Sandal,1000.0,Chính xác
+259,258,2,Pullover,2,Pullover,827.7,Chính xác
+260,259,3,Dress,3,Dress,1000.0,Chính xác
+261,260,0,T-shirt/top,0,T-shirt/top,999.99,Chính xác
+262,261,4,Coat,4,Coat,710.72,Chính xác
+263,262,8,Bag,8,Bag,999.34,Chính xác
+264,263,0,T-shirt/top,0,T-shirt/top,963.72,Chính xác
+265,264,0,T-shirt/top,0,T-shirt/top,999.91,Chính xác
+266,265,6,Shirt,6,Shirt,999.94,Chính xác
+267,266,3,Dress,3,Dress,871.65,Chính xác
+268,267,8,Bag,8,Bag,1000.0,Chính xác
+269,268,9,Ankle boot,9,Ankle boot,988.51,Chính xác
+270,269,6,Shirt,6,Shirt,730.16,Chính xác
+271,270,1,Trouser,1,Trouser,1000.0,Chính xác
+272,271,3,Dress,6,Shirt,714.47,Sai (Lỗi nhầm lẫn)
+273,272,0,T-shirt/top,0,T-shirt/top,999.43,Chính xác
+274,273,2,Pullover,2,Pullover,972.23,Chính xác
+275,274,3,Dress,3,Dress,999.76,Chính xác
+276,275,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+277,276,8,Bag,8,Bag,1000.0,Chính xác
+278,277,3,Dress,3,Dress,999.31,Chính xác
+279,278,7,Sneaker,7,Sneaker,1000.0,Chính xác
+280,279,4,Coat,4,Coat,962.11,Chính xác
+281,280,0,T-shirt/top,0,T-shirt/top,998.61,Chính xác
+282,281,1,Trouser,1,Trouser,1000.0,Chính xác
+283,282,6,Shirt,6,Shirt,808.77,Chính xác
+284,283,3,Dress,4,Coat,698.6,Sai (Lỗi nhầm lẫn)
+285,284,0,T-shirt/top,0,T-shirt/top,999.39,Chính xác
+286,285,6,Shirt,6,Shirt,565.62,Chính xác
+287,286,6,Shirt,0,T-shirt/top,851.2,Sai (Lỗi nhầm lẫn)
+288,287,7,Sneaker,7,Sneaker,1000.0,Chính xác
+289,288,5,Sandal,5,Sandal,999.99,Chính xác
+290,289,4,Coat,4,Coat,940.22,Chính xác
+291,290,5,Sandal,5,Sandal,999.83,Chính xác
+292,291,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+293,292,5,Sandal,5,Sandal,1000.0,Chính xác
+294,293,6,Shirt,6,Shirt,991.67,Chính xác
+295,294,5,Sandal,5,Sandal,1000.0,Chính xác
+296,295,5,Sandal,5,Sandal,1000.0,Chính xác
+297,296,1,Trouser,1,Trouser,1000.0,Chính xác
+298,297,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+299,298,8,Bag,8,Bag,1000.0,Chính xác
+300,299,8,Bag,8,Bag,1000.0,Chính xác
+301,300,3,Dress,3,Dress,1000.0,Chính xác
+302,301,3,Dress,3,Dress,875.85,Chính xác
+303,302,6,Shirt,6,Shirt,981.89,Chính xác
+304,303,8,Bag,8,Bag,1000.0,Chính xác
+305,304,0,T-shirt/top,0,T-shirt/top,938.07,Chính xác
+306,305,0,T-shirt/top,0,T-shirt/top,994.83,Chính xác
+307,306,2,Pullover,2,Pullover,988.9,Chính xác
+308,307,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+309,308,7,Sneaker,7,Sneaker,1000.0,Chính xác
+310,309,7,Sneaker,7,Sneaker,897.83,Chính xác
+311,310,1,Trouser,1,Trouser,1000.0,Chính xác
+312,311,3,Dress,3,Dress,930.87,Chính xác
+313,312,6,Shirt,6,Shirt,998.62,Chính xác
+314,313,4,Coat,6,Shirt,553.36,Sai (Lỗi nhầm lẫn)
+315,314,2,Pullover,6,Shirt,923.83,Sai (Lỗi nhầm lẫn)
+316,315,4,Coat,4,Coat,822.22,Chính xác
+317,316,9,Ankle boot,7,Sneaker,936.15,Sai (Lỗi nhầm lẫn)
+318,317,1,Trouser,1,Trouser,1000.0,Chính xác
+319,318,6,Shirt,6,Shirt,999.99,Chính xác
+320,319,4,Coat,4,Coat,939.85,Chính xác
+321,320,8,Bag,8,Bag,999.89,Chính xác
+322,321,2,Pullover,2,Pullover,885.41,Chính xác
+323,322,6,Shirt,0,T-shirt/top,604.18,Sai (Lỗi nhầm lẫn)
+324,323,5,Sandal,5,Sandal,1000.0,Chính xác
+325,324,4,Coat,6,Shirt,998.18,Sai (Lỗi nhầm lẫn)
+326,325,6,Shirt,6,Shirt,522.91,Chính xác
+327,326,7,Sneaker,7,Sneaker,1000.0,Chính xác
+328,327,7,Sneaker,7,Sneaker,1000.0,Chính xác
+329,328,7,Sneaker,7,Sneaker,1000.0,Chính xác
+330,329,3,Dress,3,Dress,999.99,Chính xác
+331,330,3,Dress,3,Dress,1000.0,Chính xác
+332,331,7,Sneaker,7,Sneaker,928.74,Chính xác
+333,332,0,T-shirt/top,0,T-shirt/top,928.5,Chính xác
+334,333,7,Sneaker,7,Sneaker,1000.0,Chính xác
+335,334,1,Trouser,1,Trouser,1000.0,Chính xác
+336,335,3,Dress,3,Dress,999.86,Chính xác
+337,336,7,Sneaker,7,Sneaker,1000.0,Chính xác
+338,337,2,Pullover,2,Pullover,996.79,Chính xác
+339,338,2,Pullover,2,Pullover,997.83,Chính xác
+340,339,3,Dress,3,Dress,998.86,Chính xác
+341,340,4,Coat,4,Coat,994.66,Chính xác
+342,341,0,T-shirt/top,0,T-shirt/top,786.76,Chính xác
+343,342,3,Dress,3,Dress,1000.0,Chính xác
+344,343,1,Trouser,1,Trouser,1000.0,Chính xác
+345,344,6,Shirt,6,Shirt,708.54,Chính xác
+346,345,1,Trouser,1,Trouser,1000.0,Chính xác
+347,346,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+348,347,4,Coat,4,Coat,986.51,Chính xác
+349,348,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+350,349,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+351,350,1,Trouser,1,Trouser,1000.0,Chính xác
+352,351,7,Sneaker,7,Sneaker,999.92,Chính xác
+353,352,8,Bag,8,Bag,999.35,Chính xác
+354,353,3,Dress,3,Dress,908.31,Chính xác
+355,354,6,Shirt,6,Shirt,765.2,Chính xác
+356,355,0,T-shirt/top,0,T-shirt/top,948.85,Chính xác
+357,356,2,Pullover,2,Pullover,958.2,Chính xác
+358,357,4,Coat,4,Coat,461.73,Chính xác
+359,358,8,Bag,8,Bag,1000.0,Chính xác
+360,359,0,T-shirt/top,0,T-shirt/top,727.88,Chính xác
+361,360,1,Trouser,1,Trouser,1000.0,Chính xác
+362,361,2,Pullover,6,Shirt,995.12,Sai (Lỗi nhầm lẫn)
+363,362,2,Pullover,2,Pullover,993.81,Chính xác
+364,363,4,Coat,4,Coat,865.02,Chính xác
+365,364,4,Coat,4,Coat,844.52,Chính xác
+366,365,7,Sneaker,7,Sneaker,1000.0,Chính xác
+367,366,3,Dress,3,Dress,999.99,Chính xác
+368,367,2,Pullover,2,Pullover,674.75,Chính xác
+369,368,2,Pullover,6,Shirt,935.28,Sai (Lỗi nhầm lẫn)
+370,369,5,Sandal,5,Sandal,1000.0,Chính xác
+371,370,0,T-shirt/top,0,T-shirt/top,958.1,Chính xác
+372,371,7,Sneaker,7,Sneaker,1000.0,Chính xác
+373,372,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+374,373,4,Coat,4,Coat,974.73,Chính xác
+375,374,0,T-shirt/top,6,Shirt,733.16,Sai (Lỗi nhầm lẫn)
+376,375,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+377,376,3,Dress,3,Dress,999.96,Chính xác
+378,377,9,Ankle boot,9,Ankle boot,999.97,Chính xác
+379,378,4,Coat,3,Dress,963.04,Sai (Lỗi nhầm lẫn)
+380,379,2,Pullover,2,Pullover,566.47,Chính xác
+381,380,5,Sandal,5,Sandal,1000.0,Chính xác
+382,381,0,T-shirt/top,6,Shirt,897.96,Sai (Lỗi nhầm lẫn)
+383,382,2,Pullover,0,T-shirt/top,986.57,Sai (Lỗi nhầm lẫn)
+384,383,3,Dress,3,Dress,1000.0,Chính xác
+385,384,5,Sandal,5,Sandal,1000.0,Chính xác
+386,385,8,Bag,8,Bag,1000.0,Chính xác
+387,386,1,Trouser,1,Trouser,1000.0,Chính xác
+388,387,6,Shirt,6,Shirt,634.13,Chính xác
+389,388,2,Pullover,2,Pullover,999.51,Chính xác
+390,389,6,Shirt,6,Shirt,713.47,Chính xác
+391,390,6,Shirt,6,Shirt,995.93,Chính xác
+392,391,4,Coat,4,Coat,999.59,Chính xác
+393,392,9,Ankle boot,9,Ankle boot,986.11,Chính xác
+394,393,5,Sandal,5,Sandal,1000.0,Chính xác
+395,394,2,Pullover,2,Pullover,562.3,Chính xác
+396,395,0,T-shirt/top,0,T-shirt/top,527.5,Chính xác
+397,396,4,Coat,6,Shirt,969.36,Sai (Lỗi nhầm lẫn)
+398,397,6,Shirt,6,Shirt,999.41,Chính xác
+399,398,1,Trouser,1,Trouser,1000.0,Chính xác
+400,399,2,Pullover,2,Pullover,900.04,Chính xác
+401,400,0,T-shirt/top,0,T-shirt/top,999.78,Chính xác
+402,401,9,Ankle boot,9,Ankle boot,998.81,Chính xác
+403,402,7,Sneaker,7,Sneaker,1000.0,Chính xác
+404,403,0,T-shirt/top,0,T-shirt/top,999.91,Chính xác
+405,404,4,Coat,4,Coat,424.37,Chính xác
+406,405,4,Coat,4,Coat,945.72,Chính xác
+407,406,6,Shirt,2,Pullover,450.0,Sai (Lỗi nhầm lẫn)
+408,407,6,Shirt,6,Shirt,801.44,Chính xác
+409,408,2,Pullover,2,Pullover,776.04,Chính xác
+410,409,1,Trouser,1,Trouser,999.28,Chính xác
+411,410,0,T-shirt/top,6,Shirt,619.66,Sai (Lỗi nhầm lẫn)
+412,411,6,Shirt,6,Shirt,910.21,Chính xác
+413,412,7,Sneaker,7,Sneaker,1000.0,Chính xác
+414,413,2,Pullover,6,Shirt,576.58,Sai (Lỗi nhầm lẫn)
+415,414,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+416,415,4,Coat,4,Coat,999.03,Chính xác
+417,416,2,Pullover,2,Pullover,999.26,Chính xác
+418,417,1,Trouser,1,Trouser,1000.0,Chính xác
+419,418,5,Sandal,5,Sandal,1000.0,Chính xác
+420,419,4,Coat,2,Pullover,736.45,Sai (Lỗi nhầm lẫn)
+421,420,5,Sandal,5,Sandal,1000.0,Chính xác
+422,421,3,Dress,3,Dress,999.02,Chính xác
+423,422,8,Bag,8,Bag,1000.0,Chính xác
+424,423,5,Sandal,5,Sandal,1000.0,Chính xác
+425,424,8,Bag,8,Bag,1000.0,Chính xác
+426,425,4,Coat,4,Coat,859.99,Chính xác
+427,426,4,Coat,4,Coat,988.44,Chính xác
+428,427,8,Bag,8,Bag,1000.0,Chính xác
+429,428,9,Ankle boot,9,Ankle boot,999.72,Chính xác
+430,429,8,Bag,8,Bag,1000.0,Chính xác
+431,430,6,Shirt,6,Shirt,1000.0,Chính xác
+432,431,2,Pullover,2,Pullover,749.63,Chính xác
+433,432,4,Coat,4,Coat,858.76,Chính xác
+434,433,4,Coat,4,Coat,999.46,Chính xác
+435,434,2,Pullover,2,Pullover,995.52,Chính xác
+436,435,4,Coat,4,Coat,991.99,Chính xác
+437,436,1,Trouser,1,Trouser,1000.0,Chính xác
+438,437,6,Shirt,6,Shirt,827.2,Chính xác
+439,438,1,Trouser,1,Trouser,1000.0,Chính xác
+440,439,3,Dress,3,Dress,996.68,Chính xác
+441,440,0,T-shirt/top,0,T-shirt/top,999.94,Chính xác
+442,441,9,Ankle boot,7,Sneaker,985.86,Sai (Lỗi nhầm lẫn)
+443,442,8,Bag,8,Bag,1000.0,Chính xác
+444,443,8,Bag,8,Bag,1000.0,Chính xác
+445,444,6,Shirt,4,Coat,775.78,Sai (Lỗi nhầm lẫn)
+446,445,5,Sandal,5,Sandal,1000.0,Chính xác
+447,446,3,Dress,3,Dress,986.37,Chính xác
+448,447,1,Trouser,1,Trouser,1000.0,Chính xác
+449,448,9,Ankle boot,9,Ankle boot,999.87,Chính xác
+450,449,5,Sandal,5,Sandal,1000.0,Chính xác
+451,450,3,Dress,3,Dress,999.75,Chính xác
+452,451,3,Dress,3,Dress,999.74,Chính xác
+453,452,0,T-shirt/top,0,T-shirt/top,924.18,Chính xác
+454,453,1,Trouser,1,Trouser,1000.0,Chính xác
+455,454,0,T-shirt/top,2,Pullover,688.44,Sai (Lỗi nhầm lẫn)
+456,455,2,Pullover,2,Pullover,1000.0,Chính xác
+457,456,9,Ankle boot,9,Ankle boot,999.84,Chính xác
+458,457,2,Pullover,2,Pullover,648.88,Chính xác
+459,458,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+460,459,6,Shirt,6,Shirt,946.72,Chính xác
+461,460,3,Dress,0,T-shirt/top,973.33,Sai (Lỗi nhầm lẫn)
+462,461,4,Coat,4,Coat,904.08,Chính xác
+463,462,2,Pullover,2,Pullover,983.95,Chính xác
+464,463,0,T-shirt/top,0,T-shirt/top,999.2,Chính xác
+465,464,0,T-shirt/top,0,T-shirt/top,988.67,Chính xác
+466,465,3,Dress,3,Dress,1000.0,Chính xác
+467,466,3,Dress,3,Dress,999.98,Chính xác
+468,467,8,Bag,8,Bag,1000.0,Chính xác
+469,468,2,Pullover,2,Pullover,972.44,Chính xác
+470,469,8,Bag,8,Bag,1000.0,Chính xác
+471,470,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+472,471,4,Coat,2,Pullover,546.95,Sai (Lỗi nhầm lẫn)
+473,472,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+474,473,7,Sneaker,7,Sneaker,997.57,Chính xác
+475,474,6,Shirt,2,Pullover,462.62,Sai (Lỗi nhầm lẫn)
+476,475,4,Coat,4,Coat,935.29,Chính xác
+477,476,4,Coat,4,Coat,990.85,Chính xác
+478,477,9,Ankle boot,9,Ankle boot,991.97,Chính xác
+479,478,2,Pullover,2,Pullover,998.68,Chính xác
+480,479,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+481,480,5,Sandal,5,Sandal,996.31,Chính xác
+482,481,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+483,482,3,Dress,3,Dress,999.11,Chính xác
+484,483,7,Sneaker,7,Sneaker,996.25,Chính xác
+485,484,5,Sandal,5,Sandal,1000.0,Chính xác
+486,485,7,Sneaker,7,Sneaker,939.64,Chính xác
+487,486,8,Bag,8,Bag,1000.0,Chính xác
+488,487,1,Trouser,1,Trouser,1000.0,Chính xác
+489,488,0,T-shirt/top,0,T-shirt/top,928.19,Chính xác
+490,489,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+491,490,3,Dress,3,Dress,932.68,Chính xác
+492,491,4,Coat,4,Coat,738.87,Chính xác
+493,492,8,Bag,8,Bag,1000.0,Chính xác
+494,493,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+495,494,7,Sneaker,7,Sneaker,1000.0,Chính xác
+496,495,9,Ankle boot,9,Ankle boot,995.89,Chính xác
+497,496,1,Trouser,1,Trouser,1000.0,Chính xác
+498,497,2,Pullover,2,Pullover,990.69,Chính xác
+499,498,7,Sneaker,7,Sneaker,943.96,Chính xác
+500,499,0,T-shirt/top,0,T-shirt/top,642.37,Chính xác
+501,500,2,Pullover,2,Pullover,718.31,Chính xác
+502,501,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+503,502,5,Sandal,5,Sandal,1000.0,Chính xác
+504,503,7,Sneaker,7,Sneaker,983.86,Chính xác
+505,504,1,Trouser,1,Trouser,1000.0,Chính xác
+506,505,8,Bag,8,Bag,1000.0,Chính xác
+507,506,2,Pullover,2,Pullover,987.06,Chính xác
+508,507,2,Pullover,2,Pullover,984.27,Chính xác
+509,508,2,Pullover,2,Pullover,999.99,Chính xác
+510,509,2,Pullover,2,Pullover,999.98,Chính xác
+511,510,4,Coat,4,Coat,724.01,Chính xác
+512,511,2,Pullover,2,Pullover,779.09,Chính xác
+513,512,6,Shirt,6,Shirt,699.2,Chính xác
+514,513,1,Trouser,1,Trouser,1000.0,Chính xác
+515,514,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+516,515,8,Bag,8,Bag,1000.0,Chính xác
+517,516,5,Sandal,5,Sandal,1000.0,Chính xác
+518,517,1,Trouser,1,Trouser,1000.0,Chính xác
+519,518,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+520,519,1,Trouser,1,Trouser,1000.0,Chính xác
+521,520,2,Pullover,2,Pullover,981.55,Chính xác
+522,521,8,Bag,8,Bag,1000.0,Chính xác
+523,522,3,Dress,3,Dress,999.33,Chính xác
+524,523,8,Bag,8,Bag,999.67,Chính xác
+525,524,9,Ankle boot,9,Ankle boot,999.51,Chính xác
+526,525,2,Pullover,2,Pullover,946.54,Chính xác
+527,526,4,Coat,2,Pullover,483.95,Sai (Lỗi nhầm lẫn)
+528,527,2,Pullover,2,Pullover,594.32,Chính xác
+529,528,8,Bag,8,Bag,1000.0,Chính xác
+530,529,8,Bag,0,T-shirt/top,971.56,Sai (Lỗi nhầm lẫn)
+531,530,2,Pullover,2,Pullover,999.58,Chính xác
+532,531,0,T-shirt/top,0,T-shirt/top,978.82,Chính xác
+533,532,5,Sandal,5,Sandal,1000.0,Chính xác
+534,533,8,Bag,8,Bag,1000.0,Chính xác
+535,534,8,Bag,8,Bag,999.44,Chính xác
+536,535,5,Sandal,5,Sandal,1000.0,Chính xác
+537,536,3,Dress,3,Dress,980.42,Chính xác
+538,537,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+539,538,4,Coat,4,Coat,941.43,Chính xác
+540,539,3,Dress,3,Dress,999.98,Chính xác
+541,540,4,Coat,4,Coat,996.96,Chính xác
+542,541,4,Coat,4,Coat,897.64,Chính xác
+543,542,5,Sandal,5,Sandal,999.99,Chính xác
+544,543,1,Trouser,1,Trouser,1000.0,Chính xác
+545,544,0,T-shirt/top,0,T-shirt/top,999.48,Chính xác
+546,545,1,Trouser,1,Trouser,1000.0,Chính xác
+547,546,2,Pullover,2,Pullover,726.88,Chính xác
+548,547,0,T-shirt/top,0,T-shirt/top,668.52,Chính xác
+549,548,6,Shirt,4,Coat,524.12,Sai (Lỗi nhầm lẫn)
+550,549,9,Ankle boot,9,Ankle boot,999.76,Chính xác
+551,550,6,Shirt,6,Shirt,999.98,Chính xác
+552,551,1,Trouser,1,Trouser,1000.0,Chính xác
+553,552,5,Sandal,5,Sandal,1000.0,Chính xác
+554,553,1,Trouser,1,Trouser,1000.0,Chính xác
+555,554,1,Trouser,1,Trouser,999.99,Chính xác
+556,555,1,Trouser,1,Trouser,1000.0,Chính xác
+557,556,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+558,557,3,Dress,3,Dress,999.99,Chính xác
+559,558,4,Coat,4,Coat,978.29,Chính xác
+560,559,5,Sandal,5,Sandal,1000.0,Chính xác
+561,560,3,Dress,3,Dress,998.88,Chính xác
+562,561,6,Shirt,6,Shirt,853.56,Chính xác
+563,562,6,Shirt,6,Shirt,999.62,Chính xác
+564,563,6,Shirt,0,T-shirt/top,564.06,Sai (Lỗi nhầm lẫn)
+565,564,4,Coat,4,Coat,973.79,Chính xác
+566,565,6,Shirt,0,T-shirt/top,998.38,Sai (Lỗi nhầm lẫn)
+567,566,0,T-shirt/top,0,T-shirt/top,999.77,Chính xác
+568,567,5,Sandal,5,Sandal,1000.0,Chính xác
+569,568,8,Bag,8,Bag,1000.0,Chính xác
+570,569,3,Dress,0,T-shirt/top,837.69,Sai (Lỗi nhầm lẫn)
+571,570,3,Dress,3,Dress,668.78,Chính xác
+572,571,4,Coat,4,Coat,998.57,Chính xác
+573,572,6,Shirt,6,Shirt,533.14,Chính xác
+574,573,7,Sneaker,7,Sneaker,997.6,Chính xác
+575,574,7,Sneaker,7,Sneaker,1000.0,Chính xác
+576,575,8,Bag,8,Bag,1000.0,Chính xác
+577,576,9,Ankle boot,9,Ankle boot,999.77,Chính xác
+578,577,0,T-shirt/top,0,T-shirt/top,805.75,Chính xác
+579,578,3,Dress,6,Shirt,419.09,Sai (Lỗi nhầm lẫn)
+580,579,8,Bag,8,Bag,1000.0,Chính xác
+581,580,7,Sneaker,7,Sneaker,999.2,Chính xác
+582,581,6,Shirt,6,Shirt,773.53,Chính xác
+583,582,7,Sneaker,7,Sneaker,999.87,Chính xác
+584,583,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+585,584,3,Dress,3,Dress,895.52,Chính xác
+586,585,4,Coat,4,Coat,550.25,Chính xác
+587,586,6,Shirt,0,T-shirt/top,831.74,Sai (Lỗi nhầm lẫn)
+588,587,6,Shirt,6,Shirt,665.68,Chính xác
+589,588,5,Sandal,5,Sandal,1000.0,Chính xác
+590,589,0,T-shirt/top,0,T-shirt/top,896.37,Chính xác
+591,590,1,Trouser,1,Trouser,1000.0,Chính xác
+592,591,1,Trouser,1,Trouser,1000.0,Chính xác
+593,592,5,Sandal,5,Sandal,1000.0,Chính xác
+594,593,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+595,594,4,Coat,4,Coat,948.89,Chính xác
+596,595,6,Shirt,2,Pullover,742.66,Sai (Lỗi nhầm lẫn)
+597,596,5,Sandal,5,Sandal,1000.0,Chính xác
+598,597,7,Sneaker,7,Sneaker,999.76,Chính xác
+599,598,8,Bag,8,Bag,999.99,Chính xác
+600,599,1,Trouser,1,Trouser,1000.0,Chính xác
+601,600,2,Pullover,2,Pullover,914.61,Chính xác
+602,601,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+603,602,7,Sneaker,7,Sneaker,990.52,Chính xác
+604,603,7,Sneaker,7,Sneaker,1000.0,Chính xác
+605,604,1,Trouser,1,Trouser,1000.0,Chính xác
+606,605,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+607,606,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+608,607,3,Dress,6,Shirt,494.65,Sai (Lỗi nhầm lẫn)
+609,608,2,Pullover,2,Pullover,880.85,Chính xác
+610,609,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+611,610,0,T-shirt/top,0,T-shirt/top,665.67,Chính xác
+612,611,7,Sneaker,7,Sneaker,1000.0,Chính xác
+613,612,6,Shirt,6,Shirt,988.52,Chính xác
+614,613,8,Bag,8,Bag,1000.0,Chính xác
+615,614,2,Pullover,2,Pullover,992.18,Chính xác
+616,615,7,Sneaker,7,Sneaker,1000.0,Chính xác
+617,616,0,T-shirt/top,6,Shirt,673.62,Sai (Lỗi nhầm lẫn)
+618,617,2,Pullover,2,Pullover,991.94,Chính xác
+619,618,3,Dress,3,Dress,997.14,Chính xác
+620,619,8,Bag,8,Bag,999.92,Chính xác
+621,620,2,Pullover,2,Pullover,999.91,Chính xác
+622,621,2,Pullover,6,Shirt,517.7,Sai (Lỗi nhầm lẫn)
+623,622,6,Shirt,6,Shirt,656.37,Chính xác
+624,623,9,Ankle boot,7,Sneaker,844.74,Sai (Lỗi nhầm lẫn)
+625,624,3,Dress,3,Dress,998.29,Chính xác
+626,625,0,T-shirt/top,0,T-shirt/top,999.86,Chính xác
+627,626,7,Sneaker,7,Sneaker,1000.0,Chính xác
+628,627,8,Bag,8,Bag,999.99,Chính xác
+629,628,6,Shirt,6,Shirt,990.63,Chính xác
+630,629,2,Pullover,6,Shirt,572.96,Sai (Lỗi nhầm lẫn)
+631,630,9,Ankle boot,9,Ankle boot,937.02,Chính xác
+632,631,4,Coat,4,Coat,992.54,Chính xác
+633,632,2,Pullover,2,Pullover,654.66,Chính xác
+634,633,6,Shirt,6,Shirt,813.81,Chính xác
+635,634,6,Shirt,4,Coat,443.96,Sai (Lỗi nhầm lẫn)
+636,635,8,Bag,4,Coat,977.53,Sai (Lỗi nhầm lẫn)
+637,636,0,T-shirt/top,0,T-shirt/top,998.1,Chính xác
+638,637,4,Coat,4,Coat,931.91,Chính xác
+639,638,4,Coat,4,Coat,999.87,Chính xác
+640,639,4,Coat,2,Pullover,958.08,Sai (Lỗi nhầm lẫn)
+641,640,7,Sneaker,7,Sneaker,992.31,Chính xác
+642,641,5,Sandal,5,Sandal,1000.0,Chính xác
+643,642,8,Bag,8,Bag,1000.0,Chính xác
+644,643,4,Coat,4,Coat,997.2,Chính xác
+645,644,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+646,645,1,Trouser,1,Trouser,1000.0,Chính xác
+647,646,0,T-shirt/top,0,T-shirt/top,970.41,Chính xác
+648,647,5,Sandal,5,Sandal,1000.0,Chính xác
+649,648,4,Coat,4,Coat,969.58,Chính xác
+650,649,4,Coat,4,Coat,976.75,Chính xác
+651,650,4,Coat,4,Coat,930.13,Chính xác
+652,651,0,T-shirt/top,0,T-shirt/top,649.72,Chính xác
+653,652,0,T-shirt/top,0,T-shirt/top,992.22,Chính xác
+654,653,4,Coat,4,Coat,965.89,Chính xác
+655,654,5,Sandal,5,Sandal,1000.0,Chính xác
+656,655,6,Shirt,6,Shirt,999.9,Chính xác
+657,656,0,T-shirt/top,0,T-shirt/top,999.7,Chính xác
+658,657,4,Coat,4,Coat,983.19,Chính xác
+659,658,5,Sandal,5,Sandal,1000.0,Chính xác
+660,659,4,Coat,4,Coat,979.41,Chính xác
+661,660,1,Trouser,1,Trouser,1000.0,Chính xác
+662,661,3,Dress,3,Dress,994.58,Chính xác
+663,662,1,Trouser,1,Trouser,1000.0,Chính xác
+664,663,1,Trouser,1,Trouser,817.53,Chính xác
+665,664,6,Shirt,6,Shirt,971.77,Chính xác
+666,665,4,Coat,4,Coat,843.0,Chính xác
+667,666,3,Dress,3,Dress,1000.0,Chính xác
+668,667,8,Bag,8,Bag,1000.0,Chính xác
+669,668,2,Pullover,2,Pullover,997.36,Chính xác
+670,669,8,Bag,0,T-shirt/top,1000.0,Sai (Lỗi nhầm lẫn)
+671,670,2,Pullover,6,Shirt,646.19,Sai (Lỗi nhầm lẫn)
+672,671,7,Sneaker,7,Sneaker,996.85,Chính xác
+673,672,0,T-shirt/top,0,T-shirt/top,999.16,Chính xác
+674,673,4,Coat,4,Coat,992.98,Chính xác
+675,674,0,T-shirt/top,0,T-shirt/top,628.38,Chính xác
+676,675,8,Bag,8,Bag,1000.0,Chính xác
+677,676,5,Sandal,5,Sandal,1000.0,Chính xác
+678,677,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+679,678,8,Bag,8,Bag,1000.0,Chính xác
+680,679,2,Pullover,2,Pullover,999.69,Chính xác
+681,680,9,Ankle boot,9,Ankle boot,996.06,Chính xác
+682,681,0,T-shirt/top,0,T-shirt/top,498.81,Chính xác
+683,682,8,Bag,8,Bag,1000.0,Chính xác
+684,683,9,Ankle boot,9,Ankle boot,998.29,Chính xác
+685,684,6,Shirt,6,Shirt,987.28,Chính xác
+686,685,4,Coat,4,Coat,732.64,Chính xác
+687,686,2,Pullover,2,Pullover,865.47,Chính xác
+688,687,9,Ankle boot,9,Ankle boot,999.96,Chính xác
+689,688,3,Dress,6,Shirt,730.52,Sai (Lỗi nhầm lẫn)
+690,689,4,Coat,4,Coat,465.37,Chính xác
+691,690,5,Sandal,5,Sandal,1000.0,Chính xác
+692,691,0,T-shirt/top,0,T-shirt/top,935.8,Chính xác
+693,692,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+694,693,5,Sandal,5,Sandal,1000.0,Chính xác
+695,694,3,Dress,3,Dress,1000.0,Chính xác
+696,695,6,Shirt,6,Shirt,992.13,Chính xác
+697,696,6,Shirt,6,Shirt,994.77,Chính xác
+698,697,8,Bag,8,Bag,905.06,Chính xác
+699,698,3,Dress,3,Dress,999.79,Chính xác
+700,699,3,Dress,3,Dress,989.13,Chính xác
+701,700,8,Bag,8,Bag,1000.0,Chính xác
+702,701,1,Trouser,1,Trouser,941.41,Chính xác
+703,702,4,Coat,4,Coat,770.67,Chính xác
+704,703,0,T-shirt/top,0,T-shirt/top,986.61,Chính xác
+705,704,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+706,705,7,Sneaker,7,Sneaker,982.62,Chính xác
+707,706,9,Ankle boot,9,Ankle boot,898.83,Chính xác
+708,707,4,Coat,4,Coat,980.92,Chính xác
+709,708,8,Bag,8,Bag,1000.0,Chính xác
+710,709,9,Ankle boot,9,Ankle boot,999.99,Chính xác
+711,710,1,Trouser,1,Trouser,1000.0,Chính xác
+712,711,6,Shirt,3,Dress,994.47,Sai (Lỗi nhầm lẫn)
+713,712,7,Sneaker,7,Sneaker,999.97,Chính xác
+714,713,3,Dress,3,Dress,1000.0,Chính xác
+715,714,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+716,715,2,Pullover,2,Pullover,802.45,Chính xác
+717,716,6,Shirt,6,Shirt,772.34,Chính xác
+718,717,7,Sneaker,7,Sneaker,956.22,Chính xác
+719,718,1,Trouser,1,Trouser,1000.0,Chính xác
+720,719,0,T-shirt/top,0,T-shirt/top,979.26,Chính xác
+721,720,0,T-shirt/top,0,T-shirt/top,999.91,Chính xác
+722,721,8,Bag,8,Bag,998.25,Chính xác
+723,722,5,Sandal,7,Sneaker,548.74,Sai (Lỗi nhầm lẫn)
+724,723,2,Pullover,2,Pullover,990.83,Chính xác
+725,724,6,Shirt,6,Shirt,994.14,Chính xác
+726,725,6,Shirt,4,Coat,908.7,Sai (Lỗi nhầm lẫn)
+727,726,6,Shirt,6,Shirt,890.59,Chính xác
+728,727,4,Coat,4,Coat,996.58,Chính xác
+729,728,1,Trouser,1,Trouser,1000.0,Chính xác
+730,729,5,Sandal,5,Sandal,1000.0,Chính xác
+731,730,9,Ankle boot,9,Ankle boot,999.98,Chính xác
+732,731,0,T-shirt/top,0,T-shirt/top,913.67,Chính xác
+733,732,2,Pullover,0,T-shirt/top,918.02,Sai (Lỗi nhầm lẫn)
+734,733,1,Trouser,1,Trouser,1000.0,Chính xác
+735,734,6,Shirt,6,Shirt,999.6,Chính xác
+736,735,5,Sandal,5,Sandal,1000.0,Chính xác
+737,736,0,T-shirt/top,0,T-shirt/top,886.92,Chính xác
+738,737,0,T-shirt/top,0,T-shirt/top,999.87,Chính xác
+739,738,3,Dress,3,Dress,642.31,Chính xác
+740,739,3,Dress,3,Dress,999.99,Chính xác
+741,740,3,Dress,3,Dress,999.99,Chính xác
+742,741,8,Bag,8,Bag,1000.0,Chính xác
+743,742,1,Trouser,1,Trouser,1000.0,Chính xác
+744,743,1,Trouser,1,Trouser,1000.0,Chính xác
+745,744,8,Bag,8,Bag,999.99,Chính xác
+746,745,5,Sandal,5,Sandal,1000.0,Chính xác
+747,746,7,Sneaker,7,Sneaker,1000.0,Chính xác
+748,747,7,Sneaker,7,Sneaker,912.05,Chính xác
+749,748,8,Bag,8,Bag,1000.0,Chính xác
+750,749,7,Sneaker,7,Sneaker,999.99,Chính xác
+751,750,2,Pullover,2,Pullover,816.76,Chính xác
+752,751,0,T-shirt/top,0,T-shirt/top,996.46,Chính xác
+753,752,7,Sneaker,7,Sneaker,999.98,Chính xác
+754,753,3,Dress,6,Shirt,428.45,Sai (Lỗi nhầm lẫn)
+755,754,8,Bag,8,Bag,1000.0,Chính xác
+756,755,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+757,756,9,Ankle boot,9,Ankle boot,999.98,Chính xác
+758,757,7,Sneaker,7,Sneaker,1000.0,Chính xác
+759,758,6,Shirt,6,Shirt,988.61,Chính xác
+760,759,1,Trouser,1,Trouser,1000.0,Chính xác
+761,760,2,Pullover,3,Dress,854.36,Sai (Lỗi nhầm lẫn)
+762,761,6,Shirt,2,Pullover,832.19,Sai (Lỗi nhầm lẫn)
+763,762,4,Coat,4,Coat,810.7,Chính xác
+764,763,8,Bag,8,Bag,1000.0,Chính xác
+765,764,0,T-shirt/top,0,T-shirt/top,647.41,Chính xác
+766,765,6,Shirt,6,Shirt,963.92,Chính xác
+767,766,3,Dress,3,Dress,999.99,Chính xác
+768,767,6,Shirt,6,Shirt,685.37,Chính xác
+769,768,8,Bag,8,Bag,1000.0,Chính xác
+770,769,4,Coat,4,Coat,992.0,Chính xác
+771,770,0,T-shirt/top,0,T-shirt/top,999.97,Chính xác
+772,771,8,Bag,8,Bag,1000.0,Chính xác
+773,772,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+774,773,2,Pullover,2,Pullover,993.17,Chính xác
+775,774,4,Coat,4,Coat,998.79,Chính xác
+776,775,5,Sandal,5,Sandal,1000.0,Chính xác
+777,776,9,Ankle boot,9,Ankle boot,999.97,Chính xác
+778,777,1,Trouser,1,Trouser,1000.0,Chính xác
+779,778,4,Coat,4,Coat,918.62,Chính xác
+780,779,4,Coat,4,Coat,741.75,Chính xác
+781,780,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+782,781,2,Pullover,2,Pullover,997.47,Chính xác
+783,782,1,Trouser,1,Trouser,999.87,Chính xác
+784,783,7,Sneaker,7,Sneaker,976.91,Chính xác
+785,784,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+786,785,5,Sandal,5,Sandal,999.57,Chính xác
+787,786,8,Bag,8,Bag,999.96,Chính xác
+788,787,1,Trouser,3,Dress,1000.0,Sai (Lỗi nhầm lẫn)
+789,788,7,Sneaker,7,Sneaker,987.28,Chính xác
+790,789,7,Sneaker,7,Sneaker,1000.0,Chính xác
+791,790,1,Trouser,1,Trouser,1000.0,Chính xác
+792,791,1,Trouser,1,Trouser,1000.0,Chính xác
+793,792,1,Trouser,1,Trouser,1000.0,Chính xác
+794,793,6,Shirt,6,Shirt,936.98,Chính xác
+795,794,9,Ankle boot,9,Ankle boot,999.81,Chính xác
+796,795,5,Sandal,5,Sandal,1000.0,Chính xác
+797,796,3,Dress,3,Dress,999.93,Chính xác
+798,797,8,Bag,8,Bag,1000.0,Chính xác
+799,798,4,Coat,4,Coat,661.01,Chính xác
+800,799,2,Pullover,2,Pullover,812.97,Chính xác
+801,800,7,Sneaker,9,Ankle boot,877.04,Sai (Lỗi nhầm lẫn)
+802,801,4,Coat,2,Pullover,612.05,Sai (Lỗi nhầm lẫn)
+803,802,8,Bag,8,Bag,1000.0,Chính xác
+804,803,3,Dress,3,Dress,999.99,Chính xác
+805,804,2,Pullover,2,Pullover,905.9,Chính xác
+806,805,4,Coat,4,Coat,521.1,Chính xác
+807,806,4,Coat,4,Coat,994.6,Chính xác
+808,807,7,Sneaker,7,Sneaker,1000.0,Chính xác
+809,808,1,Trouser,1,Trouser,1000.0,Chính xác
+810,809,4,Coat,4,Coat,985.81,Chính xác
+811,810,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+812,811,3,Dress,3,Dress,997.94,Chính xác
+813,812,5,Sandal,5,Sandal,1000.0,Chính xác
+814,813,8,Bag,8,Bag,1000.0,Chính xác
+815,814,5,Sandal,5,Sandal,1000.0,Chính xác
+816,815,4,Coat,4,Coat,902.68,Chính xác
+817,816,7,Sneaker,7,Sneaker,990.73,Chính xác
+818,817,2,Pullover,2,Pullover,998.88,Chính xác
+819,818,8,Bag,8,Bag,1000.0,Chính xác
+820,819,5,Sandal,5,Sandal,1000.0,Chính xác
+821,820,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+822,821,3,Dress,3,Dress,987.98,Chính xác
+823,822,3,Dress,3,Dress,999.99,Chính xác
+824,823,6,Shirt,6,Shirt,941.29,Chính xác
+825,824,7,Sneaker,7,Sneaker,989.74,Chính xác
+826,825,1,Trouser,1,Trouser,1000.0,Chính xác
+827,826,7,Sneaker,7,Sneaker,999.12,Chính xác
+828,827,3,Dress,3,Dress,999.61,Chính xác
+829,828,5,Sandal,5,Sandal,999.96,Chính xác
+830,829,4,Coat,4,Coat,992.12,Chính xác
+831,830,4,Coat,6,Shirt,736.3,Sai (Lỗi nhầm lẫn)
+832,831,5,Sandal,5,Sandal,1000.0,Chính xác
+833,832,8,Bag,8,Bag,1000.0,Chính xác
+834,833,3,Dress,3,Dress,999.97,Chính xác
+835,834,7,Sneaker,7,Sneaker,888.48,Chính xác
+836,835,1,Trouser,1,Trouser,1000.0,Chính xác
+837,836,2,Pullover,2,Pullover,986.43,Chính xác
+838,837,6,Shirt,6,Shirt,931.73,Chính xác
+839,838,1,Trouser,1,Trouser,1000.0,Chính xác
+840,839,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+841,840,8,Bag,8,Bag,1000.0,Chính xác
+842,841,2,Pullover,2,Pullover,518.55,Chính xác
+843,842,7,Sneaker,7,Sneaker,1000.0,Chính xác
+844,843,1,Trouser,1,Trouser,1000.0,Chính xác
+845,844,3,Dress,3,Dress,999.08,Chính xác
+846,845,7,Sneaker,7,Sneaker,1000.0,Chính xác
+847,846,5,Sandal,5,Sandal,1000.0,Chính xác
+848,847,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+849,848,9,Ankle boot,9,Ankle boot,998.87,Chính xác
+850,849,1,Trouser,1,Trouser,1000.0,Chính xác
+851,850,8,Bag,8,Bag,1000.0,Chính xác
+852,851,2,Pullover,4,Coat,836.14,Sai (Lỗi nhầm lẫn)
+853,852,5,Sandal,5,Sandal,976.78,Chính xác
+854,853,7,Sneaker,7,Sneaker,1000.0,Chính xác
+855,854,1,Trouser,1,Trouser,1000.0,Chính xác
+856,855,9,Ankle boot,9,Ankle boot,999.99,Chính xác
+857,856,8,Bag,8,Bag,1000.0,Chính xác
+858,857,1,Trouser,1,Trouser,1000.0,Chính xác
+859,858,0,T-shirt/top,0,T-shirt/top,886.77,Chính xác
+860,859,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+861,860,6,Shirt,2,Pullover,776.7,Sai (Lỗi nhầm lẫn)
+862,861,1,Trouser,1,Trouser,1000.0,Chính xác
+863,862,7,Sneaker,7,Sneaker,1000.0,Chính xác
+864,863,1,Trouser,1,Trouser,1000.0,Chính xác
+865,864,1,Trouser,1,Trouser,1000.0,Chính xác
+866,865,5,Sandal,5,Sandal,1000.0,Chính xác
+867,866,7,Sneaker,7,Sneaker,1000.0,Chính xác
+868,867,1,Trouser,1,Trouser,1000.0,Chính xác
+869,868,5,Sandal,5,Sandal,1000.0,Chính xác
+870,869,2,Pullover,2,Pullover,996.41,Chính xác
+871,870,2,Pullover,6,Shirt,759.95,Sai (Lỗi nhầm lẫn)
+872,871,3,Dress,3,Dress,996.96,Chính xác
+873,872,3,Dress,3,Dress,999.95,Chính xác
+874,873,1,Trouser,1,Trouser,1000.0,Chính xác
+875,874,1,Trouser,1,Trouser,1000.0,Chính xác
+876,875,4,Coat,4,Coat,739.57,Chính xác
+877,876,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+878,877,4,Coat,2,Pullover,559.48,Sai (Lỗi nhầm lẫn)
+879,878,3,Dress,3,Dress,1000.0,Chính xác
+880,879,7,Sneaker,7,Sneaker,1000.0,Chính xác
+881,880,7,Sneaker,7,Sneaker,999.96,Chính xác
+882,881,0,T-shirt/top,0,T-shirt/top,837.16,Chính xác
+883,882,8,Bag,8,Bag,1000.0,Chính xác
+884,883,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+885,884,9,Ankle boot,9,Ankle boot,998.01,Chính xác
+886,885,6,Shirt,6,Shirt,984.36,Chính xác
+887,886,1,Trouser,1,Trouser,1000.0,Chính xác
+888,887,3,Dress,3,Dress,991.51,Chính xác
+889,888,4,Coat,4,Coat,883.71,Chính xác
+890,889,0,T-shirt/top,0,T-shirt/top,999.73,Chính xác
+891,890,0,T-shirt/top,0,T-shirt/top,508.8,Chính xác
+892,891,5,Sandal,5,Sandal,1000.0,Chính xác
+893,892,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+894,893,2,Pullover,2,Pullover,928.92,Chính xác
+895,894,0,T-shirt/top,0,T-shirt/top,999.56,Chính xác
+896,895,5,Sandal,5,Sandal,1000.0,Chính xác
+897,896,5,Sandal,5,Sandal,1000.0,Chính xác
+898,897,1,Trouser,1,Trouser,1000.0,Chính xác
+899,898,5,Sandal,5,Sandal,999.98,Chính xác
+900,899,7,Sneaker,7,Sneaker,1000.0,Chính xác
+901,900,8,Bag,8,Bag,1000.0,Chính xác
+902,901,7,Sneaker,7,Sneaker,1000.0,Chính xác
+903,902,5,Sandal,9,Ankle boot,689.47,Sai (Lỗi nhầm lẫn)
+904,903,3,Dress,3,Dress,999.99,Chính xác
+905,904,6,Shirt,6,Shirt,987.39,Chính xác
+906,905,4,Coat,6,Shirt,988.81,Sai (Lỗi nhầm lẫn)
+907,906,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+908,907,4,Coat,6,Shirt,879.86,Sai (Lỗi nhầm lẫn)
+909,908,0,T-shirt/top,0,T-shirt/top,884.87,Chính xác
+910,909,6,Shirt,2,Pullover,996.46,Sai (Lỗi nhầm lẫn)
+911,910,0,T-shirt/top,0,T-shirt/top,872.33,Chính xác
+912,911,2,Pullover,2,Pullover,999.92,Chính xác
+913,912,5,Sandal,5,Sandal,1000.0,Chính xác
+914,913,5,Sandal,5,Sandal,1000.0,Chính xác
+915,914,1,Trouser,1,Trouser,1000.0,Chính xác
+916,915,2,Pullover,2,Pullover,999.41,Chính xác
+917,916,0,T-shirt/top,0,T-shirt/top,868.48,Chính xác
+918,917,9,Ankle boot,9,Ankle boot,999.99,Chính xác
+919,918,3,Dress,3,Dress,1000.0,Chính xác
+920,919,7,Sneaker,7,Sneaker,1000.0,Chính xác
+921,920,8,Bag,6,Shirt,996.07,Sai (Lỗi nhầm lẫn)
+922,921,6,Shirt,4,Coat,817.97,Sai (Lỗi nhầm lẫn)
+923,922,8,Bag,8,Bag,1000.0,Chính xác
+924,923,3,Dress,3,Dress,999.99,Chính xác
+925,924,4,Coat,4,Coat,971.28,Chính xác
+926,925,7,Sneaker,7,Sneaker,999.89,Chính xác
+927,926,0,T-shirt/top,0,T-shirt/top,998.85,Chính xác
+928,927,7,Sneaker,7,Sneaker,1000.0,Chính xác
+929,928,4,Coat,4,Coat,999.94,Chính xác
+930,929,8,Bag,8,Bag,1000.0,Chính xác
+931,930,0,T-shirt/top,6,Shirt,477.31,Sai (Lỗi nhầm lẫn)
+932,931,3,Dress,3,Dress,996.67,Chính xác
+933,932,4,Coat,4,Coat,999.01,Chính xác
+934,933,4,Coat,4,Coat,985.57,Chính xác
+935,934,3,Dress,3,Dress,999.91,Chính xác
+936,935,4,Coat,6,Shirt,761.64,Sai (Lỗi nhầm lẫn)
+937,936,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+938,937,0,T-shirt/top,6,Shirt,703.26,Sai (Lỗi nhầm lẫn)
+939,938,6,Shirt,6,Shirt,972.14,Chính xác
+940,939,4,Coat,4,Coat,681.49,Chính xác
+941,940,9,Ankle boot,9,Ankle boot,999.97,Chính xác
+942,941,1,Trouser,1,Trouser,1000.0,Chính xác
+943,942,8,Bag,8,Bag,1000.0,Chính xác
+944,943,1,Trouser,1,Trouser,1000.0,Chính xác
+945,944,7,Sneaker,7,Sneaker,998.9,Chính xác
+946,945,5,Sandal,5,Sandal,1000.0,Chính xác
+947,946,5,Sandal,5,Sandal,1000.0,Chính xác
+948,947,6,Shirt,6,Shirt,998.77,Chính xác
+949,948,0,T-shirt/top,6,Shirt,518.97,Sai (Lỗi nhầm lẫn)
+950,949,2,Pullover,2,Pullover,989.35,Chính xác
+951,950,1,Trouser,1,Trouser,1000.0,Chính xác
+952,951,0,T-shirt/top,0,T-shirt/top,924.57,Chính xác
+953,952,5,Sandal,5,Sandal,1000.0,Chính xác
+954,953,4,Coat,4,Coat,633.83,Chính xác
+955,954,0,T-shirt/top,0,T-shirt/top,1000.0,Chính xác
+956,955,0,T-shirt/top,0,T-shirt/top,999.01,Chính xác
+957,956,6,Shirt,2,Pullover,524.58,Sai (Lỗi nhầm lẫn)
+958,957,7,Sneaker,7,Sneaker,1000.0,Chính xác
+959,958,5,Sandal,5,Sandal,1000.0,Chính xác
+960,959,0,T-shirt/top,0,T-shirt/top,997.89,Chính xác
+961,960,3,Dress,4,Coat,308.85,Sai (Lỗi nhầm lẫn)
+962,961,5,Sandal,5,Sandal,1000.0,Chính xác
+963,962,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+964,963,6,Shirt,6,Shirt,985.41,Chính xác
+965,964,8,Bag,8,Bag,1000.0,Chính xác
+966,965,0,T-shirt/top,2,Pullover,499.77,Sai (Lỗi nhầm lẫn)
+967,966,6,Shirt,6,Shirt,760.15,Chính xác
+968,967,4,Coat,4,Coat,861.79,Chính xác
+969,968,6,Shirt,6,Shirt,761.54,Chính xác
+970,969,2,Pullover,2,Pullover,994.55,Chính xác
+971,970,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+972,971,6,Shirt,6,Shirt,858.47,Chính xác
+973,972,7,Sneaker,7,Sneaker,999.99,Chính xác
+974,973,7,Sneaker,7,Sneaker,999.97,Chính xác
+975,974,1,Trouser,1,Trouser,999.99,Chính xác
+976,975,4,Coat,4,Coat,997.69,Chính xác
+977,976,2,Pullover,4,Coat,678.85,Sai (Lỗi nhầm lẫn)
+978,977,6,Shirt,0,T-shirt/top,891.28,Sai (Lỗi nhầm lẫn)
+979,978,5,Sandal,5,Sandal,999.97,Chính xác
+980,979,3,Dress,0,T-shirt/top,987.31,Sai (Lỗi nhầm lẫn)
+981,980,9,Ankle boot,9,Ankle boot,1000.0,Chính xác
+982,981,9,Ankle boot,9,Ankle boot,999.99,Chính xác
+983,982,8,Bag,8,Bag,1000.0,Chính xác
+984,983,8,Bag,8,Bag,1000.0,Chính xác
+985,984,3,Dress,3,Dress,912.51,Chính xác
+986,985,0,T-shirt/top,0,T-shirt/top,859.65,Chính xác
+987,986,2,Pullover,2,Pullover,907.87,Chính xác
+988,987,4,Coat,4,Coat,853.47,Chính xác
+989,988,6,Shirt,6,Shirt,1000.0,Chính xác
+990,989,6,Shirt,6,Shirt,999.98,Chính xác
+991,990,3,Dress,3,Dress,999.93,Chính xác
+992,991,2,Pullover,2,Pullover,999.69,Chính xác
+993,992,3,Dress,3,Dress,999.82,Chính xác
+994,993,5,Sandal,5,Sandal,614.55,Chính xác
+995,994,4,Coat,2,Pullover,619.43,Sai (Lỗi nhầm lẫn)
+996,995,9,Ankle boot,9,Ankle boot,999.94,Chính xác
+997,996,3,Dress,3,Dress,998.9,Chính xác
+998,997,4,Coat,4,Coat,913.98,Chính xác
+999,998,7,Sneaker,7,Sneaker,1000.0,Chính xác
+1000,999,7,Sneaker,7,Sneaker,1000.0,Chính xác
